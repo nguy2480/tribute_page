@@ -1,3 +1,41 @@
-h1 {
-    color: blue;
+#title {
+    color: red;
+    background-color: black;
 }
+
+header {
+    font-size: x-large;
+}
+
+body {
+    background-color:  lightgrey;
+}
+
+#main {
+    background-color: grey;
+    font-size: medium;
+}
+
+#image {
+    display: block;
+    max-width: 100%; 
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#img-caption {
+    font-size: small;
+}
+
+#tribute-info {
+    font-size: 150%;
+    text-align: center;
+}
+
+#tribute-link{
+    font-size: small;
+
+}
+
